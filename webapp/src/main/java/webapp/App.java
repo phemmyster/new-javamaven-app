@@ -1,4 +1,4 @@
-package 1.0;
+package webapp;
 
 /**
  * Hello world!
